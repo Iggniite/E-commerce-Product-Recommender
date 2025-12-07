@@ -1,0 +1,51 @@
+product_id,name,category,brand,price,tags
+1,Nike Air Zoom Pegasus,Running Shoes,Nike,4999,running sports men shoes
+2,Adidas Ultraboost,Running Shoes,Adidas,5999,running sports shoes
+3,Puma Smash V2,Sneakers,Puma,2999,casual sneakers men shoes
+4,Apple iPhone 13,Smartphone,Apple,59999,smartphone ios apple mobile
+5,Samsung Galaxy S21,Smartphone,Samsung,54999,smartphone android samsung mobile
+6,OnePlus Nord 2,Smartphone,OnePlus,29999,smartphone android oneplus mobile
+7,Boat Rockerz 510,Headphones,Boat,1799,headphones wireless music audio
+8,JBL Charge 4,Bluetooth Speaker,JBL,9999,speaker wireless music audio
+9,Dell Inspiron 15,Laptop,Dell,64999,laptop work windows office
+10,HP Pavilion 14,Laptop,HP,67999,laptop work windows office
+11,Levi’s Men T-Shirt,Clothing,Levi’s,1199,clothing tshirt men fashion
+12,Allen Solly Women Top,Clothing,Allen Solly,1499,clothing women fashion top
+13,Sony WH-1000XM4,Headphones,Sony,24999,headphones noise-cancel music audio
+14,Canon EOS 1500D,Camera,Canon,34999,camera photography dslr
+15,Mi Smart Band 6,Smart Wearable,Mi,3499,fitness band smartwatch health
+16,Product 16,Smart Wearable,Sony,2967,smart wearable sony general
+17,Product 17,Gaming,Nike,3090,gaming nike general
+18,Product 18,Home Appliance,Dell,3213,home appliance dell general
+19,Product 19,Smartphone,HP,3336,smartphone hp general
+20,Product 20,Laptop,Boat,3459,laptop boat general
+21,Product 21,Camera,Canon,3582,camera canon general
+22,Product 22,Clothing,Lenovo,3705,clothing lenovo general
+23,Product 23,Sneakers,Asus,3828,sneakers asus general
+24,Product 24,Headphones,Mi,3951,headphones mi general
+25,Product 25,Smart Wearable,Puma,4074,smart wearable puma general
+26,Product 26,Gaming,LG,4197,gaming lg general
+27,Product 27,Home Appliance,Samsung,4320,home appliance samsung general
+28,Product 28,Smartphone,Apple,4443,smartphone apple general
+29,Product 29,Laptop,Sony,4566,laptop sony general
+30,Product 30,Camera,Nike,4689,camera nike general
+31,Product 31,Clothing,Dell,4812,clothing dell general
+32,Product 32,Sneakers,HP,4935,sneakers hp general
+33,Product 33,Headphones,Boat,5058,headphones boat general
+34,Product 34,Smart Wearable,Canon,5181,smart wearable canon general
+35,Product 35,Gaming,Lenovo,5304,gaming lenovo general
+36,Product 36,Home Appliance,Asus,5427,home appliance asus general
+37,Product 37,Smartphone,Mi,5550,smartphone mi general
+38,Product 38,Laptop,Puma,5673,laptop puma general
+39,Product 39,Camera,LG,5796,camera lg general
+40,Product 40,Clothing,Samsung,5919,clothing samsung general
+41,Product 41,Sneakers,Apple,6042,sneakers apple general
+42,Product 42,Headphones,Sony,6165,headphones sony general
+43,Product 43,Smart Wearable,Nike,6288,smart wearable nike general
+44,Product 44,Gaming,Dell,6411,gaming dell general
+45,Product 45,Home Appliance,HP,6534,home appliance hp general
+46,Product 46,Smartphone,Boat,6657,smartphone boat general
+47,Product 47,Laptop,Canon,6780,laptop canon general
+48,Product 48,Camera,Lenovo,6903,camera lenovo general
+49,Product 49,Clothing,Asus,7026,clothing asus general
+50,Product 50,Sneakers,Mi,7149,sneakers mi general
