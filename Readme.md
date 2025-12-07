@@ -141,7 +141,6 @@ Example explanation:
 * **Frontend:** Streamlit
 * **Machine Learning:** Scikit-learn (TF-IDF, Cosine Similarity)
 * **Data Handling:** Pandas, NumPy
-* **API Testing:** Built-in FastAPI Swagger UI
 * **Data Storage:** CSV files
 
 ---
@@ -219,23 +218,7 @@ http://localhost:8501
 
 ---
 
-## 📊 Demo Flow (For Video)
-
-1. Start backend server
-2. Start Streamlit dashboard
-3. Select a user from dropdown
-4. Click **Get Recommendations**
-5. Show:
-
-   * Recommended products
-   * Scores
-   * Explanation for each product
-6. Explain how the system works in simple terms
-
----
-
-
-## 👨‍💻 Author
+## 👨‍💻 Author - S Patel
 
 Developed as part of an academic assignment project to demonstrate:
 
