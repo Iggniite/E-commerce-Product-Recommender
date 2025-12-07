@@ -39,7 +39,7 @@ To build a system that:
 
   <p align="center" style="margin: 0;">
     <img 
-      src="assets/output/output.jpg" 
+      src="assets/output.jpg" 
       alt="Project Output" 
       style="max-width: 100%; border-radius: 8px;"
     />
